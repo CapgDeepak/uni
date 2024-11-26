@@ -1,0 +1,18 @@
+{
+    "/api": {
+        "target": "https://localhost:44344",
+        "secure": false
+    },
+    "/PhraseLibrary": {
+        "target": "https://localhost:44344",
+        "secure": false
+    },
+    "/PhraseMatrix": {
+        "target": "https://localhost:44344",
+        "secure": false
+    },
+    "/WorkList": {
+        "target": "https://localhost:44344",
+        "secure": false
+    }
+}
